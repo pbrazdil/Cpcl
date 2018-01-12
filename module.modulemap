@@ -1,5 +1,5 @@
-module Cpcl_common [system] {
+module Cpcl [system] {
     header "shim.h"
-    link "pcl_common"
+    link "pcl_common:pcl_segmentation"
     export *
 }
