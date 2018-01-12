@@ -1,0 +1,5 @@
+module Cpcl_common [system] {
+    header "shim.h"
+    link "pcl_common"
+    export *
+}
