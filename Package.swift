@@ -5,7 +5,7 @@ import PackageDescription
 
 let package = Package(
     name: "Cpcl",
-    pkgConfig: "pcl_common-1.7",
+    pkgConfig: "pcl_common-1.8",
     dependencies: [
         // Dependencies declare other packages that this package depends on.
         // .package(url: /* package url */, from: "1.0.0"),
